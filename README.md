@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacktherizzler&label=Profile%20views&color=0e75b6&style=flat" alt="jacktherizzler" /> </p>
 
-- 🔭 I’m currently working on **GANs and evolutionary activity**
+- 🔭 I’m currently working on **GANs and evolutionary algorithms**
 
-- 🌱 I’m currently learning **nothing**
+<!-- 🌱 I’m currently learning **nothing** -->
 
 - 👯 I’m looking to collaborate on **Research papers**
 
-- 🤝 I’m looking for help with **nothing 😜**
+<!-- 🤝 I’m looking for help with **nothing 😜** -->
 
 - 👨‍💻 All of my projects are available at [https://jacktherizzler.github.io/web/](https://jacktherizzler.github.io/web/)
 
